@@ -30,5 +30,5 @@ Project Demo
 
 This video demonstrates the AWS EC2 Shell Log Analyzer running and analyzing log files using Bash scripting on Linux.
 
-Project Demo 🎦
-Video.Guru_20261018-111648085.mp4
+Watch Project Demo 🎦
+https://drive.google.com/file/d/1n7ikekj3Lf23fcr2CIpkwmpOrmu06sCm/view?usp=drivesdk
